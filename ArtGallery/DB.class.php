@@ -1,10 +1,10 @@
 <?php
 
 class DB{
-    private $dbHost     = "database-1.cptrcvahtkfl.eu-west-1.rds.amazonaws.com";
-    private $dbUsername = "Murilo_2018362";
-    private $dbPassword = "Jushubas186!";
-    private $dbName     = "murilo_2018362";
+    private $dbHost     = "";
+    private $dbUsername = "";
+    private $dbPassword = "";
+    private $dbName     = "";
     // private $dbHost     = "localhost";
     // private $dbUsername = "root";
     // private $dbPassword = "password";
